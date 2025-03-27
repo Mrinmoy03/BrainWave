@@ -3,4 +3,4 @@ Modern website with sleek parallax effects and bento box layouts using React.js 
 
 visit the site live: 
 
-https://roaring-seahorse-89795e.netlify.app/
+https://brainwave003-react-app.netlify.app/
